@@ -15,8 +15,11 @@ Access 6+ leading Chinese AI models through a single API key and OpenAI-compatib
 
 ## Installation
 
+### 通过市场安装（推荐）
 ```bash
-# In Claude Code
+# 添加市场源（仅需一次）
+/plugin marketplace add https://github.com/aisa-one/aisa-provider
+# 安装插件
 /plugin install aisa-provider
 ```
 

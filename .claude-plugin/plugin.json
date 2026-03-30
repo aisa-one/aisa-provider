@@ -7,7 +7,7 @@
     "url": "https://aisa.one"
   },
   "homepage": "https://aisa.one",
-  "repository": "https://github.com/AIsaONE/claude-code-plugins",
+  "repository": "https://github.com/aisa-one/aisa-provider",
   "license": "MIT",
   "keywords": ["ai-models", "china", "llm", "qwen", "deepseek", "kimi", "api-gateway", "aisa"]
 }
