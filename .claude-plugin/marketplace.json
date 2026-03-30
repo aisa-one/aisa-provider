@@ -1,7 +1,5 @@
 {
   "name": "aisa-marketplace",
-  "version": "1.0.0",
-  "description": "AIsa plugins for Claude Code",
   "owner": {
     "name": "AIsa",
     "url": "https://aisa.one"
@@ -9,10 +7,9 @@
   "plugins": [
     {
       "name": "aisa-provider",
+      "source": "./",
       "description": "Unified API gateway for China's top AI models",
-      "source": "https://github.com/aisa-one/aisa-provider",
-      "version": "1.0.0",
-      "category": "productivity"
+      "version": "1.0.0"
     }
   ]
 }
